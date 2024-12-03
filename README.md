@@ -4,7 +4,7 @@ NC to GeoTIFF Converter Application
 The NC to GeoTIFF Converter is a tool for converting NetCDF (.nc) files with PM2.5 air quality data into GeoTIFF (.tif) format. The application features a Graphical User Interface (GUI), making it easy to select input files and output directories.
 
 Application in google drive
-https://drive.google.com/file/d/1F1bJAqU1LjBQn9jx0IYz76jrTyzJSOUl/view?usp=sharing
+https://drive.google.com/file/d/1uMimnUKDEGSuzgLBk0PC-vHGMW9tkjg0/view?usp=sharing
 
 Key Features:
 File Selection: Choose multiple or single NetCDF files.
@@ -17,10 +17,8 @@ Input: NetCDF (.nc) files with latitude, longitude, and PM2.5 data.
 Output: GeoTIFF (.tif) files.
 
 Installation Instructions:
-Download and extract the ZIP file.
-Navigate to:
-dist/app_gui/app_gui.exe
-Run the executable (app_gui.exe).
+Download the nc2tif_converter.exe file.
+Run the executable (nc2tif_converter.exe).
 
 License:
 This project is licensed under the GNU General Public License v3.0.
