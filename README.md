@@ -5,7 +5,7 @@ NC to TIFF Converter Application
 The NC to TIFF Converter is a tool for converting NetCDF (.nc) files with PM2.5 air quality data into TIFF (.tif) format. The application features a Graphical User Interface (GUI), making it easy to select input files and output directories.
 
 
-Visit the website to download the converter application : https://swapnil-343.github.io/nc2tif-converter/
+Visit the website to download the converter application : https://swapnil-343.github.io/nc2tif.converter/
 
 Key Features:
 
